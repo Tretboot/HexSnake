@@ -1,4 +1,0 @@
-Steuerung
-Pfeiltasten: Bewegung in die vier Haupt-Richtungen (oben, unten, links, rechts).
-Q / E: Diagonale Bewegungen, sodass insgesamt 6 Richtungen zur Verfügung stehen.
-R: Neustarten des Spiels nach einem Game Over.
